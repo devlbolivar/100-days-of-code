@@ -11,3 +11,7 @@ Started a React App. Worked on the draft layout of the app,  I struggled with re
 ### R1D2
 
 Day 2 #100DaysOfCode Today I worked with the SignIn UI. I Integrated some Material UI components. I also struggled with React Router Dom V6 and implemented the first routes.
+
+### R1D3
+
+Day 3 #100DaysOfCode Today I worked with React Router Dom again, sorting files and configuring the routes, the layout base is working and I started a Calendar component of events. #react 
