@@ -15,3 +15,8 @@ Day 2 #100DaysOfCode Today I worked with the SignIn UI. I Integrated some Materi
 ### R1D3
 
 Day 3 #100DaysOfCode Today I worked with React Router Dom again, sorting files and configuring the routes, the layout base is working and I started a Calendar component of events. #react 
+
+
+### R1D4
+
+Day 4 #100DaysOfCode #Challenge Today I created the grid for a calendar, it's already dynamic getting the current month and day. I also applied some styles
