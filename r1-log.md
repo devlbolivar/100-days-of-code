@@ -23,3 +23,6 @@ Day 4 #100DaysOfCode #Challenge Today I created the grid for a calendar, it's al
 
 ### R1D5
 Day 5 #100DaysOfCode Today I worked with the days' labels and the calendar header. #ReactJs
+
+### R1D6
+Day 6 #100DaysOfCode Today I worked with the navigation component, it's already showing different months. I was refactoring the grid component also. #ReactJs
