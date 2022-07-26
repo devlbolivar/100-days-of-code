@@ -26,3 +26,6 @@ Day 5 #100DaysOfCode Today I worked with the days' labels and the calendar heade
 
 ### R1D6
 Day 6 #100DaysOfCode Today I worked with the navigation component, it's already showing different months. I was refactoring the grid component also. #ReactJs
+
+### R1D7
+Day 7 #100DaysOfCode Toda I started out the event component and added interfaces for different types. I changed the folder structure and I did some visual changes. #ReactJs #TypeScript
