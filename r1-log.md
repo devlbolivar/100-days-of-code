@@ -29,3 +29,6 @@ Day 6 #100DaysOfCode Today I worked with the navigation component, it's already 
 
 ### R1D7
 Day 7 #100DaysOfCode Toda I started out the event component and added interfaces for different types. I changed the folder structure and I did some visual changes. #ReactJs #TypeScript
+
+### R1D8
+Day 8 #100DaysOfCode  Today I worked with events labels, it's already working dynamically with mocked data. I also started out with the modal component for event viewing. #ReactJs
