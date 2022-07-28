@@ -32,3 +32,6 @@ Day 7 #100DaysOfCode Toda I started out the event component and added interfaces
 
 ### R1D8
 Day 8 #100DaysOfCode  Today I worked with events labels, it's already working dynamically with mocked data. I also started out with the modal component for event viewing. #ReactJs
+
+### R1D9
+Day 9 #100DaysOfCode Today I modified the app state, and added useContext, also I included different TypeScript interfaces. #ReactJs #TypeScript
