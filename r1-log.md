@@ -35,3 +35,9 @@ Day 8 #100DaysOfCode  Today I worked with events labels, it's already working dy
 
 ### R1D9
 Day 9 #100DaysOfCode Today I modified the app state, and added useContext, also I included different TypeScript interfaces. #ReactJs #TypeScript
+
+### R1D10
+Day 10 #100DaysOfCode Today I worked again with the app state, configuring useContext and creating a custom hook. #ReactJs
+
+### R1D11
+Day 11 #100DaysOfCode  I refactored the whole app state with useContext. It's working again and I built a very basic form to create new events, no styles yet. 
