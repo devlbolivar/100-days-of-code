@@ -44,3 +44,6 @@ Day 11 #100DaysOfCode  I refactored the whole app state with useContext. It's wo
 
 ### R1D12
 Day 12 #100DaysOfCode I created two new components, modal and event components, both will be used when the user clicks over an event. No fancy styles yet! 
+
+### R1D13
+Day 13 #100DaysOfCode I continue working with event components, Today I was applying styles and taking a look at material UI. 
